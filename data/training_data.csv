@@ -1,0 +1,15 @@
+text,label
+"Dear user, your account has been temporarily suspended. Please verify your identity to restore access.","human"
+"Hello, I hope you are doing well. Kindly check the attached file for more details.","human"
+"Please update your billing information immediately to avoid service interruption.","human"
+"Your package delivery failed. Please click the link below to reschedule.","human"
+
+"As an AI language model, I cannot process your request until you provide more context.","ai"
+"This response has been generated based on machine learning patterns and available data.","ai"
+"Dear valued customer, kindly be informed that your account upgrade is available.","ai"
+"Thank you for contacting us. This message was automatically generated.","ai"
+
+"Urgent: Your bank account has been locked. Please verify now.","human"
+"Verify your login immediately to avoid termination.","human"
+"This output was generated automatically using large language models.","ai"
+"Your account update has been processed using automated systems.","ai"

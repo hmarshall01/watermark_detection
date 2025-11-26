@@ -1,0 +1,1 @@
+Hello, We’re ready to issue your refund but are missing the last four digits of your account number. Reply with that info or enter it securely here.
